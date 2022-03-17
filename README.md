@@ -25,6 +25,7 @@
 
   ![Sephora Site Mockup](assets/images/work-in-process.PNG)
 - I created the library from the style sephora had and did not even get to use those colors.
+- Had little problem exporting design file then maha helped me i had wrong plugin added.
 
   ### Attributions
 

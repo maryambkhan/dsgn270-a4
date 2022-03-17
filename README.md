@@ -4,7 +4,7 @@
 
 ### Figma Mockup
 
-- [GH repo]()
+- [GH repo](https://github.com/maryambkhan/dsgn270-a4)
 
 ### Code Journal
 

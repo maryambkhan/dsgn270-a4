@@ -4,6 +4,8 @@
 
 ### Figma Mockup
 
+- [GH repo]()
+
 ### Code Journal
 
 - I am working on `sephora's` website for mockup. I choose there website becouse they have 
@@ -22,3 +24,9 @@
 - I am almost done with footer and then my assignment will be done if no problem.
 
   ![Sephora Site Mockup](assets/images/work-in-process.PNG)
+- I created the library from the style sephora had and did not even get to use those colors.
+
+  ### Attributions
+
+  - [Sephora](https://www.sephora.com/ca/en/)
+  - [Pexel](https://www.pexels.com/search/cosmetics/)
